@@ -1,0 +1,25 @@
+
+
+{
+"choices" : [
+  {
+    "id" : 0,
+    "name": "Components of System Design",
+    "description": "Player has selected start",
+    "repercussions" : [
+      {
+        "step1" : "Client Side", 
+        "step2" : "Network Request",
+        "step3" : "Server",
+        "step4" : "Load Balancer",
+        "step5" : "Cache",
+        "step6" : "Database",
+        "step7" : "Infrastructure",
+        "step8" : "Security Layer"
+
+
+      }
+    ]
+  }
+] 
+}
